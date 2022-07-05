@@ -1,0 +1,20 @@
+{
+    "name": "abbaiakram/google-custom-search",
+    "description": "Using google API we can search any keyword in google and we can integrate this in our system as well",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abbaiakram\\GoogleCustomSearch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Akram Abbasi",
+            "email": "mohdakramabbasi@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
+}
