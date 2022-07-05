@@ -8,6 +8,7 @@
  * @link https://developers.google.com/custom-search/v1/reference/rest/v1/cse/list?apix=true
  */
  
+namespace Abbaiakram\GoogleCustomSearch;
 
 class searchEngine 
 {
