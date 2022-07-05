@@ -3,9 +3,9 @@
     "description": "Using google API we can search any keyword in google and we can integrate this in our system as well",
     "type": "library",
     "license": "MIT",
-	"version": "0.1",
+	"version": "master",
     "minimum-stability":"dev",
-    "autoload": {
+     "autoload": {
         "psr-4": {
             "Abbaiakram\\GoogleCustomSearch\\": "src/"
         }
@@ -17,6 +17,7 @@
         }
     ],
     "require": {
-        "php": ">=7.2"
+        "php": ">=7.2",
+		"ext-curl": "^7.1"
     }
 }
