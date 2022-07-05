@@ -3,6 +3,8 @@
     "description": "Using google API we can search any keyword in google and we can integrate this in our system as well",
     "type": "library",
     "license": "MIT",
+	"version": "0.1",
+    "minimum-stability":"dev",
     "autoload": {
         "psr-4": {
             "Abbaiakram\\GoogleCustomSearch\\": "src/"
